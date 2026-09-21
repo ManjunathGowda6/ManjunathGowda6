@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./minimal_developer_contribution_animation.gif" width="100%">
+  <img src="./minimal_developer_contribution_animation.gif" width="100%" alt="Developer animation">
 </p>
 
-<h1 align="center">Hi, I'm Arnav</h1>
+<h1 align="center">Hi 👋, I'm Arnav</h1>
 
 <p align="center">
   <b>Manjunath Gowda</b>
