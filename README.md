@@ -1,8 +1,13 @@
+<!-- Animated GitHub Banner -->
 <p align="center">
-  <img src="./framework.gif" width="100%" alt="Developer animation">
+  <img
+    src="./fremework"
+    width="100%"
+    alt="Developer contribution animation"
+  />
 </p>
 
-<h1 align="center">Hi, I'm Arnav</h1>
+<h1 align="center">Hi 👋, I'm Arnav</h1>
 
 <p align="center">
   <b>Manjunath Gowda</b>
@@ -11,5 +16,3 @@
 <p align="center">
   Information Science & Engineering Student
 </p>
-
-<!-- rest of your README -->
