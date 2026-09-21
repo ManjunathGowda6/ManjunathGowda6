@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./minimal_developer_contribution_animation.gif" width="100%" alt="Developer animation">
+  <img src="./fremework.gif" width="100%" alt="Developer animation">
 </p>
 
 <h1 align="center">Hi, I'm Arnav</h1>
