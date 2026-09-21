@@ -8,7 +8,7 @@
 <h1 align="center">Hi I'm Manjunath Gowda</h1>
 
 <p align="center">
-  Information Science & Engineering Student
+  Final year Information Science & Engineering Student
 </p>
 
 <!-- rest of your README -->
