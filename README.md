@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Arnav</h1>
+<h1 align="center">Hi, I'm Arnav</h1>
 
 <p align="center">
   <b>Manjunath Gowda</b>
