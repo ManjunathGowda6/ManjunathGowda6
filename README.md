@@ -1,7 +1,7 @@
 <!-- Animated GitHub Banner -->
 <p align="center">
   <img
-    src="./fremework.gif"
+    src="./git fremework.gif"
     width="100%"
     alt="Developer contribution animation"
   />
