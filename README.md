@@ -16,7 +16,7 @@
 <p align="center">
   Information Science & Engineering Student
 </p>
-# 🌟 About Me:
+#  About Me:
 
 👋 Hi, I'm **Manjunath Gowda** 🎓  
 🎓 Information Science and Engineering Student  
@@ -52,15 +52,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjunathGowda6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManjunathGowda6&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathGowda6&theme=dark&hide_border=false&layout=compact)
-
-
 # 🚀 Featured Projects:
 
 ### 🧠 Smart Seizure Detection Using EEG Signals
@@ -76,8 +67,3 @@ AI-powered finance management and advisory application.
 ### 🎥 AI Live Video Summarizer
 
 AI-powered application for summarizing live videos and uploaded video/audio files, helping generate concise summaries and provide answers from video content.
-
-
-# 📈 Profile Visitors:
-
-![Profile Views](https://komarev.com/ghpvc/?username=ManjunathGowda6&label=Profile%20Views&color=0e75b6&style=flat)
